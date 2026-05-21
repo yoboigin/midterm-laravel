@@ -66,3 +66,11 @@ Create the MySQL database before running `php artisan migrate`.
 - Form validation (unique email, valid age)
 - Delete confirmation prompt
 - Success messages after actions
+
+## Submitted By
+
+- Eldrian Aspa (Leader)
+- Tristan Bugarin
+- Nicollette Lasquite
+- Mikyla Lanorio
+
