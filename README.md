@@ -73,4 +73,3 @@ Create the MySQL database before running `php artisan migrate`.
 - Tristan Bugarin
 - Nicollette Lasquite
 - Mikyla Lanorio
-- IAN SALOSAGCOL
